@@ -1,0 +1,43 @@
+body{
+    background-color:gray;
+    display: flex;
+    justify-content: center;
+}
+h1{
+    position: relative;
+    left:100px;
+    color:beige;
+    font-size:50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.upper{
+    position: relative;
+    top: 250px;
+    right: 450px;
+    width: 70px;
+    border-radius:5px ;
+}
+.number{
+    position: relative;
+    text-align: center;
+    top: 250px;
+    right:210px;
+    font-size: 100px;
+    text-align: center;
+   
+    width: 150px;
+    height: 100px;
+    
+}
+.lower{
+    position: relative;
+    top: 250px;
+    right: 450px;
+    width: 70px;
+    left:30px;
+    border-radius: 5px;
+
+
+}
+
